@@ -41,7 +41,7 @@ A organização do projeto segue uma estrutura de pastas bem definida para facil
 ## 5. Contato
 Caso haja dúvidas ou sugestões relacionadas ao projeto, entre em contato:
 - **Email**: [gabrielmatosnogueiracompsci@gmail.com](mailto:gabrielmatosnogueiracompsci@gmail.com)
-- **Perfil Acadêmico**: [LinkedIn/GitHub](https://github.com/GabrielMatosNogueira)(https://www.linkedin.com/in/gabriel-nogueira-145478323/)
+- **Perfil LinkedIn**: [LinkedIn](https://www.linkedin.com/in/gabriel-nogueira-145478323/)
 
 ---
 **Data da última atualização**: [08/03/2025]
