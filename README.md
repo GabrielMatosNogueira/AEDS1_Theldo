@@ -2,10 +2,10 @@
 
 ## 1. Informações do Autor
 - **Nome**: Gabriel Matos Nogueira
-- **Código de Identificação**: 1563147_Gabriel_Matos_Nogueira
+- **Código de Identificação | PUC-MINAS**: 1563147
 
 ## 2. Estrutura de Pastas
-A organização do projeto segue uma estrutura de pastas bem definida para facilitar o acesso e manutenção dos arquivos.
+A organização do projeto segue uma estrutura de pastas bem definida para facilitar o acesso, visualização e manutenção dos arquivos.
 
 ### 2.1 Exemplos
 - **Descrição**: Contém exemplos de cada estudo dirigido, utilizados para praticar documentação, correção e análise de código.
@@ -40,8 +40,8 @@ A organização do projeto segue uma estrutura de pastas bem definida para facil
 
 ## 5. Contato
 Caso haja dúvidas ou sugestões relacionadas ao projeto, entre em contato:
-- **Email**: [email@example.com](mailto:email@example.com)
-- **Perfil Acadêmico**: [LinkedIn/GitHub](https://github.com/username)
+- **Email**: [gabrielmatosnogueiracompsci@gmail.com](mailto:gabrielmatosnogueiracompsci@gmail.com)
+- **Perfil Acadêmico**: [LinkedIn/GitHub](https://github.com/GabrielMatosNogueira)(https://www.linkedin.com/in/gabriel-nogueira-145478323/)
 
 ---
-**Data da última atualização**: [INSERIR DATA]
+**Data da última atualização**: [08/03/2025]
